@@ -1,7 +1,7 @@
 package com.example.designpattern;
 
-import com.example.designpattern.Iterator.Book;
-import com.example.designpattern.Iterator.BookShelf;
+import com.example.designpattern.iterator.Book;
+import com.example.designpattern.iterator.BookShelf;
 import org.junit.jupiter.api.Test;
 
 import java.util.Iterator;

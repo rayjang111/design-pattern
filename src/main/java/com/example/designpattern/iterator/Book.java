@@ -1,4 +1,4 @@
-package com.example.designpattern.Iterator;
+package com.example.designpattern.iterator;
 
 import lombok.Getter;
 import lombok.Setter;
